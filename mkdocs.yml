@@ -91,3 +91,4 @@ nav:
     - $crypto: js-sdk/crypto.md
     - $cheerio: js-sdk/cheerio.md
     - $storage: js-sdk/storage.md
+    - $cookie: js-sdk/cookie.md
